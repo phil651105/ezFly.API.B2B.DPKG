@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{66C57A9A-3A61-4DEA-BA4D-3E9521B39DF5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ezFly.API.B2B.DPKG/appsettings.json">
+    <Files>
+      <File FileName="ezFly.API.B2B.DPKG/appsettings.json" Line="1" Column="1" />
+      <File FileName="ezFly.API.B2B.DPKG/Startup.cs" Line="8" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ezFly.API.B2B.DPKG PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

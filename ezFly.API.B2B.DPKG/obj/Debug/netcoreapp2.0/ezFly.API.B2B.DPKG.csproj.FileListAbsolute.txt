@@ -1,0 +1,12 @@
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\bin\Debug\netcoreapp2.0\ezFly.API.B2B.DPKG.deps.json
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\bin\Debug\netcoreapp2.0\ezFly.API.B2B.DPKG.runtimeconfig.json
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\bin\Debug\netcoreapp2.0\ezFly.API.B2B.DPKG.runtimeconfig.dev.json
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\bin\Debug\netcoreapp2.0\ezFly.API.B2B.DPKG.dll
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\bin\Debug\netcoreapp2.0\ezFly.API.B2B.DPKG.pdb
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\obj\Debug\netcoreapp2.0\ezFly.API.B2B.DPKG.csproj.CoreCompileInputs.cache
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\obj\Debug\netcoreapp2.0\ezFly.API.B2B.DPKG.AssemblyInfoInputs.cache
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\obj\Debug\netcoreapp2.0\ezFly.API.B2B.DPKG.AssemblyInfo.cs
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\obj\Debug\netcoreapp2.0\ezFly.API.B2B.DPKG.dll
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\obj\Debug\netcoreapp2.0\ezFly.API.B2B.DPKG.pdb
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\【SVN】\EC\src\TDE\B2B\ezFly.API.B2B.DPKG\ezFly.API.B2B.DPKG\obj\Debug\netcoreapp2.0\ezFly.API.B2B.DPKG.csprojAssemblyReference.cache
